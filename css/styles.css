@@ -1,0 +1,39 @@
+
+
+div { 
+
+    background-color: antiquewhite;
+    text-align: center;
+    color: lightsalmon;
+    
+}
+
+
+h1 {
+background-color: rgb(163, 103, 163);
+text-emphasis-color: black;
+
+}
+
+
+h2 {
+    background-color: rgb(163, 103, 163);
+    text-emphasis-color: black;
+
+}
+
+
+h3 {
+    background-color: rgb(163, 103, 163);
+    text-emphasis-color: black;
+
+}
+
+p
+{
+text-underline-position: below;
+font-size: 12;
+font-style: italic;
+
+}
+
